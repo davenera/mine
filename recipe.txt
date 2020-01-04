@@ -6,5 +6,8 @@ rice
 beans
 chicken
 
+Beans
+Pizza
+
 
 Thank you
